@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<h1 align="center"><b>PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN<br>(ALGORITHM ANALYSIS AND DESIGN)</b></h>
+<h1 align="center"><b>PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN<br>(ALGORITHM ANALYSIS AND DESIGN)</b></h1>
 
 [![Status](https://img.shields.io/badge/status-woking-brightgreen?style=flat-square)](https://github.com/DoThiThuTrang/CS112.M21.KHCL)
 [![GitHub contributors](https://img.shields.io/github/contributors/DoThiThuTrang/CS112.M21.KHCL?style=flat-square)](https://github.com/DoThiThuTrang/CS112.M21.KHCL/graphs/contributors)
