@@ -11,6 +11,7 @@
 * [Giới thiệu môn học](https://github.com/DoThiThuTrang/CS112.M21.KHCL#gi%E1%BB%9Bi-thi%E1%BB%87u-m%C3%B4n-h%E1%BB%8Dc)
 * [Thông tin về nhóm](https://github.com/DoThiThuTrang/CS112.M21.KHCL#th%C3%B4ng-tin-v%E1%BB%81-nh%C3%B3m)
 * [Chủ đề báo cáo](https://github.com/DoThiThuTrang/CS112.M21.KHCL#ch%E1%BB%A7-%C4%91%E1%BB%81-b%C3%A1o-c%C3%A1o)
+* [Tài liệu cho buổi thảo luận]()
 * [Bài tập của các nhóm](https://github.com/DoThiThuTrang/CS112.M21.KHCL#b%C3%A0i-t%E1%BA%ADp-c%E1%BB%A7a-c%C3%A1c-nh%C3%B3m)
 
 ## GIỚI THIỆU MÔN HỌC
@@ -33,6 +34,8 @@
 ## CHỦ ĐỀ BÁO CÁO
 * **Số thứ tự chủ đề:** 13
 * **Tên chủ đề:** Luyện tập thiết kế thuật toán (1)
+
+## TÀI LIỆU CHO BUỔI THẢO LUẬN
 
 ## BÀI TẬP CỦA CÁC NHÓM
 ### [1. BÀI TẬP VỀ NHÀ](https://github.com/DoThiThuTrang/CS112.M21.KHCL/tree/main/B%C3%A0i%20t%E1%BA%ADp%20c%E1%BB%A7a%20c%C3%A1c%20nh%C3%B3m/B%C3%A0i%20t%E1%BA%ADp%20v%E1%BB%81%20nh%C3%A0)
