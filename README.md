@@ -7,12 +7,16 @@
 
 <h1 align="center"><b>PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN<br>(ALGORITHM ANALYSIS AND DESIGN)</b></h>
 
+[![Status](https://img.shields.io/badge/status-woking-brightgreen?style=flat-square)](https://github.com/DoThiThuTrang/CS112.M21.KHCL)
+[![GitHub contributors](https://img.shields.io/github/contributors/DoThiThuTrang/CS112.M21.KHCL?style=flat-square](https://github.com/DoThiThuTrang/CS112.M21.KHCL/graphs/contributors)
+[![Status](https://img.shields.io/badge/language-python-green?style=flat-square)](https://github.com/DoThiThuTrang/CS112.M21.KHCL)
+
 ## BẢNG MỤC LỤC
-* [Giới thiệu môn học](https://github.com/DoThiThuTrang/CS112.M21.KHCL#gi%E1%BB%9Bi-thi%E1%BB%87u-m%C3%B4n-h%E1%BB%8Dc)
-* [Thông tin về nhóm](https://github.com/DoThiThuTrang/CS112.M21.KHCL#th%C3%B4ng-tin-v%E1%BB%81-nh%C3%B3m)
-* [Chủ đề báo cáo](https://github.com/DoThiThuTrang/CS112.M21.KHCL#ch%E1%BB%A7-%C4%91%E1%BB%81-b%C3%A1o-c%C3%A1o)
-* [Tài liệu cho buổi thảo luận](https://github.com/DoThiThuTrang/CS112.M21.KHCL#t%C3%A0i-li%E1%BB%87u-cho-bu%E1%BB%95i-th%E1%BA%A3o-lu%E1%BA%ADn)
-* [Bài tập của các nhóm](https://github.com/DoThiThuTrang/CS112.M21.KHCL#b%C3%A0i-t%E1%BA%ADp-c%E1%BB%A7a-c%C3%A1c-nh%C3%B3m)
+* [Giới thiệu môn học](#giới-thiệu-môn-học)
+* [Thông tin về nhóm](#thông-tin-về-nhóm)
+* [Chủ đề báo cáo](#chủ-đề-báo-cáo)
+* [Tài liệu cho buổi thảo luận](#tài-liệu-cho-buổi-thảo-luận)
+* [Bài tập của các nhóm](#bài-tập-của-các-nhóm)
 
 ## GIỚI THIỆU MÔN HỌC
 * **Tên môn học:** Phân tích và thiết kế thuật toán - Algorithm Analysis and Design
