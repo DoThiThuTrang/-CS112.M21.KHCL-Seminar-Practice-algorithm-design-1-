@@ -11,7 +11,7 @@
 * [Giới thiệu môn học](https://github.com/DoThiThuTrang/CS112.M21.KHCL#gi%E1%BB%9Bi-thi%E1%BB%87u-m%C3%B4n-h%E1%BB%8Dc)
 * [Thông tin về nhóm](https://github.com/DoThiThuTrang/CS112.M21.KHCL#th%C3%B4ng-tin-v%E1%BB%81-nh%C3%B3m)
 * [Chủ đề báo cáo](https://github.com/DoThiThuTrang/CS112.M21.KHCL#ch%E1%BB%A7-%C4%91%E1%BB%81-b%C3%A1o-c%C3%A1o)
-* [Tài liệu cho buổi thảo luận]()
+* [Tài liệu cho buổi thảo luận](https://github.com/DoThiThuTrang/CS112.M21.KHCL#t%C3%A0i-li%E1%BB%87u-cho-bu%E1%BB%95i-th%E1%BA%A3o-lu%E1%BA%ADn)
 * [Bài tập của các nhóm](https://github.com/DoThiThuTrang/CS112.M21.KHCL#b%C3%A0i-t%E1%BA%ADp-c%E1%BB%A7a-c%C3%A1c-nh%C3%B3m)
 
 ## GIỚI THIỆU MÔN HỌC
