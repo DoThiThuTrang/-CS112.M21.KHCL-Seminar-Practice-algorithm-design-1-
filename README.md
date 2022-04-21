@@ -45,6 +45,6 @@
 * **Bài tập về nhà:** [btvn]()
 
 ## BÀI TẬP CỦA CÁC NHÓM
-### [1. BÀI TẬP VỀ NHÀ](Bài tập của các nhóm/Bài tập về nhà)
+### [1. BÀI TẬP VỀ NHÀ](https://github.com/DoThiThuTrang/CS112.M21.KHCL/tree/main/B%C3%A0i%20t%E1%BA%ADp%20c%E1%BB%A7a%20c%C3%A1c%20nh%C3%B3m/B%C3%A0i%20t%E1%BA%ADp%20v%E1%BB%81%20nh%C3%A0)
 ### [2. BÀI TẬP WECODE](https://github.com/DoThiThuTrang/CS112.M21.KHCL/tree/main/B%C3%A0i%20t%E1%BA%ADp%20c%E1%BB%A7a%20c%C3%A1c%20nh%C3%B3m/B%C3%A0i%20t%E1%BA%ADp%20WeCode)
 ### [3. BÀI TẬP HACKERRANK](https://github.com/DoThiThuTrang/CS112.M21.KHCL/tree/main/B%C3%A0i%20t%E1%BA%ADp%20c%E1%BB%A7a%20c%C3%A1c%20nh%C3%B3m/B%C3%A0i%20t%E1%BA%ADp%20HackerRank)
