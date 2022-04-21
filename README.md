@@ -5,13 +5,11 @@
   </a>
 </p>
 
-<h1 align="center"><b>PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN<br>(ALGORITHM ANALYSIS AND DESIGN)</b></h1>
+<h1 align="center"><b>PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN<br>(ALGORITHM ANALYSIS AND DESIGN)</b></h>
 
-<p align="center">
   [![Status](https://img.shields.io/badge/status-woking-brightgreen?style=flat-square)](https://github.com/DoThiThuTrang/CS112.M21.KHCL)
   [![GitHub contributors](https://img.shields.io/github/contributors/DoThiThuTrang/CS112.M21.KHCL?style=flat-square)] (https://github.com/DoThiThuTrang/CS112.M21.KHCL/graphs/contributors)
   [![Status](https://img.shields.io/badge/language-python-green?style=flat-square)](https://github.com/DoThiThuTrang/CS112.M21.KHCL)
-</p>
 
 ## BẢNG MỤC LỤC
 * [Giới thiệu môn học](#giới-thiệu-môn-học)
