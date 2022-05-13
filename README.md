@@ -45,7 +45,7 @@
 * **Bài tập về nhà:** [BTVN]()
 
 ## BÀI TẬP CỦA CÁC NHÓM
-* [1. Non Recursive](https://github.com/DoThiThuTrang/CS112.M21.KHCL/tree/main/BTVN%20c%E1%BB%A7a%20c%C3%A1c%20nh%C3%B3m/Ch%E1%BB%A7%20%C4%91%E1%BB%81%2001%20-%20Non%20Recursivec)
+* [1. Non Recursive](https://github.com/DoThiThuTrang/CS112.M21.KHCL/tree/main/BTVN%20c%E1%BB%A7a%20c%C3%A1c%20nh%C3%B3m/Ch%E1%BB%A7%20%C4%91%E1%BB%81%2001%20-%20Non%20Recursive)
 * [2. Recursive](https://github.com/DoThiThuTrang/CS112.M21.KHCL/tree/main/BTVN%20c%E1%BB%A7a%20c%C3%A1c%20nh%C3%B3m/Ch%E1%BB%A7%20%C4%91%E1%BB%81%2002%20-%20Recursive)
 * [3. Testing](https://github.com/DoThiThuTrang/CS112.M21.KHCL/tree/main/BTVN%20c%E1%BB%A7a%20c%C3%A1c%20nh%C3%B3m/Ch%E1%BB%A7%20%C4%91%E1%BB%81%2003%20-%20Testing)
 * [4. Brute Force](https://github.com/DoThiThuTrang/CS112.M21.KHCL/tree/main/BTVN%20c%E1%BB%A7a%20c%C3%A1c%20nh%C3%B3m/Ch%E1%BB%A7%20%C4%91%E1%BB%81%2004%20-%20Brute%20Force)
