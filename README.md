@@ -41,7 +41,7 @@
 
 ## TÀI LIỆU CHO BUỔI THẢO LUẬN
 * **Slide thuyết trình:** [Slide]()
-* **Biên bản buổi thảo luận:** [Biên bản]()
+* **Biên bản buổi thảo luận:** [Biên bản](https://docs.google.com/spreadsheets/d/1MogPvF8qw6ul9PBhjmfiZYW9FHCuOUm5FQ1d90WTVKc/edit#gid=843863149)
 * **Bài tập về nhà:** [BTVN]()
 
 ## BÀI TẬP CỦA CÁC NHÓM
