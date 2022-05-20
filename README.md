@@ -40,7 +40,7 @@
 * **Tên chủ đề:** Luyện tập thiết kế thuật toán (1)
 
 ## TÀI LIỆU CHO BUỔI THẢO LUẬN
-* **Slide thuyết trình:** [Slide]()
+* **Slide thuyết trình:** [Slide](https://uithcm-my.sharepoint.com/:p:/g/personal/20520767_ms_uit_edu_vn/EftIC1nL7TtOjV4Mt4GIQr8Bj4cfgWOCOQAdagGzbqZmFQ?e=3h5mtw)
 * **Biên bản buổi thảo luận:** [Biên bản](https://docs.google.com/spreadsheets/d/1MogPvF8qw6ul9PBhjmfiZYW9FHCuOUm5FQ1d90WTVKc/edit#gid=843863149)
 * **Bài tập về nhà:** [BTVN]()
 
