@@ -14,7 +14,7 @@
 ## BẢNG MỤC LỤC
 * [Giới thiệu môn học](#giới-thiệu-môn-học)
 * [Thông tin về nhóm](#thông-tin-về-nhóm)
-* [Chủ đề báo cáo](#chủ-đề-báo-cáo)
+* [Chủ đề thảo luận](#chủ-đề-thảo-luận)
 * [Tài liệu cho buổi thảo luận](#tài-liệu-cho-buổi-thảo-luận)
 * [Bài tập của các nhóm](#bài-tập-của-các-nhóm)
 
@@ -35,9 +35,16 @@
 | 2      | 20520767      | Trương Thị Thanh Thanh   |Thành viên |[TTTThanh2812](https://github.com/TTTThanh2812)  |20520767@gm.uit.edu.vn   |
 | 3      | 20520816      | Đỗ Thị Thu Trang         |Thành viên |[DoThiThuTrang](https://github.com/DoThiThuTrang)|20520816@gm.uit.edu.vn   |
 
-## CHỦ ĐỀ BÁO CÁO
+## CHỦ ĐỀ THẢO LUẬN
 * **Số thứ tự chủ đề:** 13
 * **Tên chủ đề:** Luyện tập thiết kế thuật toán (1)
+* **Nội dung thảo luận:**
+  - Ôn tập lại về Completed Search gồm:
+    + Brute Force 
+    + Backtracking
+    + Branch and Bound
+  - Luyện tập thiết kế thuật toán vận dụng Computational Thinking
+  - Làm bài tập Wecode để củng cố kỹ năng lập trình
 
 ## TÀI LIỆU CHO BUỔI THẢO LUẬN
 * **Slide thuyết trình:** [Slide](https://uithcm-my.sharepoint.com/:p:/g/personal/20520767_ms_uit_edu_vn/EftIC1nL7TtOjV4Mt4GIQr8Bj4cfgWOCOQAdagGzbqZmFQ?e=3h5mtw)
