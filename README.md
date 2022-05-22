@@ -39,12 +39,12 @@
 * **Số thứ tự chủ đề:** 13
 * **Tên chủ đề:** Luyện tập thiết kế thuật toán (1)
 * **Nội dung thảo luận:**
-  - Ôn tập lại về Completed Search gồm:
+  - Ôn tập về Completed Search:
     + Brute Force 
     + Backtracking
     + Branch and Bound
   - Luyện tập thiết kế thuật toán vận dụng Computational Thinking
-  - Làm bài tập Wecode để củng cố kỹ năng lập trình
+  - Làm bài tập trên Wecode để củng cố kỹ năng lập trình
 
 ## TÀI LIỆU CHO BUỔI THẢO LUẬN
 * **Slide thuyết trình:** [Slide](https://uithcm-my.sharepoint.com/:p:/g/personal/20520767_ms_uit_edu_vn/EftIC1nL7TtOjV4Mt4GIQr8Bj4cfgWOCOQAdagGzbqZmFQ?e=3h5mtw)
