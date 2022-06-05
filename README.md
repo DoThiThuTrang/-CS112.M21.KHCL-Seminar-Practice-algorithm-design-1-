@@ -50,6 +50,7 @@
 * **Slide thuyết trình:** [Slide](https://uithcm-my.sharepoint.com/:p:/g/personal/20520767_ms_uit_edu_vn/EftIC1nL7TtOjV4Mt4GIQr8Bj4cfgWOCOQAdagGzbqZmFQ?e=3h5mtw)
 * **Biên bản buổi thảo luận:** [Biên bản](https://docs.google.com/spreadsheets/d/1MogPvF8qw6ul9PBhjmfiZYW9FHCuOUm5FQ1d90WTVKc/edit#gid=843863149)
 * **Bài tập về nhà:** [BTVN](https://khmt.uit.edu.vn/wecode/sonnt/assignment/170/278)
+* **Nhận xét bài tập về nhà:** [Nhận xét]()
 
 ## BÀI TẬP CỦA CÁC NHÓM
 * [01. Non Recursive](https://github.com/DoThiThuTrang/CS112.M21.KHCL/tree/main/BTVN%20c%E1%BB%A7a%20c%C3%A1c%20nh%C3%B3m/Ch%E1%BB%A7%20%C4%91%E1%BB%81%2001%20-%20Non%20Recursive)
