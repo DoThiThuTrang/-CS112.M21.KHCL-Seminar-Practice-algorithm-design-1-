@@ -47,7 +47,7 @@
   - Làm bài tập trên Wecode để củng cố kỹ năng lập trình
 
 ## TÀI LIỆU CHO BUỔI THẢO LUẬN
-* **Slide thuyết trình:** [Slide](https://uithcm-my.sharepoint.com/:p:/g/personal/20520767_ms_uit_edu_vn/EftIC1nL7TtOjV4Mt4GIQr8Bj4cfgWOCOQAdagGzbqZmFQ?e=3h5mtw)
+* **Slide thuyết trình:** [Slide](https://uithcm-my.sharepoint.com/:p:/g/personal/20520767_ms_uit_edu_vn/EftIC1nL7TtOjV4Mt4GIQr8Bj4cfgWOCOQAdagGzbqZmFQ?e=GXcVyI)
 * **Biên bản buổi thảo luận:** [Biên bản](https://docs.google.com/spreadsheets/d/1MogPvF8qw6ul9PBhjmfiZYW9FHCuOUm5FQ1d90WTVKc/edit#gid=843863149)
 * **Bài tập về nhà:** [BTVN](https://khmt.uit.edu.vn/wecode/sonnt/assignment/170/278)
 * **Nhận xét bài tập về nhà:** [Nhận xét](https://uithcm-my.sharepoint.com/:w:/g/personal/20520278_ms_uit_edu_vn/ESpLUIjwMcVLuw_4UE0i8PMBHo4SJ_oB77GSmNcPPG4zvg?e=rYMBpJ)
