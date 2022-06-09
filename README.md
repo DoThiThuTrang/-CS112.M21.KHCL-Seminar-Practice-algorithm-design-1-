@@ -65,6 +65,6 @@
 * [10. Dynamic Programming (2)](https://github.com/DoThiThuTrang/CS112.M21.KHCL/tree/main/BTVN%20c%E1%BB%A7a%20c%C3%A1c%20nh%C3%B3m/Ch%E1%BB%A7%20%C4%91%E1%BB%81%2010%20-%20Dynamic%20Programming%20(2))
 * [11. Geometric](https://github.com/DoThiThuTrang/CS112.M21.KHCL/tree/main/BTVN%20c%E1%BB%A7a%20c%C3%A1c%20nh%C3%B3m/Ch%E1%BB%A7%20%C4%91%E1%BB%81%2011%20-%20Geometric)
 * [12. Graph](https://github.com/DoThiThuTrang/CS112.M21.KHCL/tree/main/BTVN%20c%E1%BB%A7a%20c%C3%A1c%20nh%C3%B3m/Ch%E1%BB%A7%20%C4%91%E1%BB%81%2012%20-%20Graph)
-* [13. Practice Algorithms Design (1)]()
+* [13. Practice Algorithms Design (1)](#tài-liệu-cho-buổi-thảo-luận)
 * [14. Practice Algorithms Design (2)]()
 * [15. Practice Algorithms Design (3)]()
